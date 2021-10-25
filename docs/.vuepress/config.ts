@@ -10,5 +10,5 @@ export default defineUserConfig<DefaultThemeOptions>({
     logo: "https://vuejs.org/images/logo.png",
   },
 
-  base: "vuepress-blog",
+  base: "/vuepress-blog/",
 });
