@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from "vuepress";
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: "en-US",
-  title: "chen.zhang's blog",
+  title: "強ければ強いほど、責任を取りなさい。",
 
   themeConfig: {
     logo: "",
@@ -19,13 +19,13 @@ export default defineUserConfig<DefaultThemeOptions>({
           text: "JLPT聴解",
           children: [
             {
-              text: "n1.201707",
+              text: "N1 2017 07",
               link: "/nihongo/jlpt/n1.201707.md",
             },
-            {
-              text: "n1.201712",
-              link: "/nihongo/jlpt/n1.201712.md",
-            },
+            // {
+            //   text: "n1.201712",
+            //   link: "/nihongo/jlpt/n1.201712.md",
+            // },
           ],
         },
         {
@@ -38,6 +38,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             {
               text: "夜に駆ける",
               link: "/nihongo/kyoku/夜に駆ける.md",
+            },
+            {
+              text: "ドライフラワー",
+              link: "/nihongo/kyoku/ドライフラワー.md",
             },
           ],
         },
