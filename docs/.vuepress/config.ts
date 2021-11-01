@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from "vuepress";
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: "en-US",
-  title: "強ければ強いほど、責任を取りなさい。",
+  title: "強ければ強いほど責任を取りなさい",
 
   themeConfig: {
     logo: "",
