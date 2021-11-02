@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from "vuepress";
 
 export default defineUserConfig<DefaultThemeOptions>({
   lang: "en-US",
-  title: "chen.zhang's BLOG",
+  title: "chen.zhang's BLOG", // 強ければ強いほど責任を取りなさい
   base: "/vuepress-blog/",
 
   themeConfig: {
