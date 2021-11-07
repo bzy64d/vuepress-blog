@@ -30,6 +30,7 @@ export default defineUserConfig<DefaultThemeOptions>({
             "/nihongo/kyoku/アイロニ.md",
             "/nihongo/kyoku/夜に駆ける.md",
             "/nihongo/kyoku/ドライフラワー.md",
+            "/nihongo/kyoku/こたえあわせ.md",
           ],
         },
       ],
