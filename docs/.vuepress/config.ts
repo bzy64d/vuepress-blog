@@ -22,7 +22,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         },
         {
           text: "文法",
-          children: ["/nihongo/try/n1.md"],
+          children: ["/nihongo/try/n1.md", "/nihongo/try/n2.md"],
         },
         {
           text: "曲の練習",
