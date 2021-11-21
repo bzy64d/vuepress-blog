@@ -25,7 +25,7 @@ export default defineUserConfig<DefaultThemeOptions>({
           children: ["/nihongo/try/n1.md", "/nihongo/try/n2.md"],
         },
         {
-          text: "曲の練習",
+          text: "好きな曲",
           children: [
             "/nihongo/kyoku/アイロニ.md",
             "/nihongo/kyoku/夜に駆ける.md",
